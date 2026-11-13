@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a custom **Time Division Multiple Access (TDMA)** implementation.
+This directory contains a custom **Time Division Multiple Access (TDMA)** implementation.
 
 The broader objective of this project is to develop a reliable and scalable communication system for a decentralised UAV (Unmanned Aerial Vehicle) swarm.
 
@@ -348,9 +348,9 @@ These improvements are important steps toward a robust and scalable communicatio
 
 ## 9. Reference Code
 
-The repository also contains an `Initial_Reference/` directory with code from an earlier implementation that was used as a reference during the initial stages of the project.
+The directory also contains an `Initial_Reference/` directory with code from an earlier implementation that was used as a reference during the initial stages of the project.
 
-The primary focus of this repository is the custom TDMA implementation developed as part of the undergraduate project.
+The primary focus of this directory is the custom TDMA implementation developed as part of the undergraduate project.
 
 
 ## Acknowledgement
