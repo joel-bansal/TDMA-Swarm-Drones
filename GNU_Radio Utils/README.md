@@ -10,7 +10,7 @@ Linux Layer-2 TAP (`sdr0`) to **ADALM-Pluto SDR** BPSK communication link built 
 
 ---
 
-## Repository Files
+## Directory Files
 
 | File | Purpose |
 | :--- | :--- |
@@ -66,7 +66,7 @@ sudo arp -s 10.0.0.2 00:11:22:33:44:55 -i sdr0
 
 ## 3. Running the System
 
-Open **4 terminals** in the repository folder and run the components in order:
+Open **4 terminals** in the Directory folder and run the components in order:
 
 ### Terminal 1: Start GNU Radio Flowgraph
 ```bash
